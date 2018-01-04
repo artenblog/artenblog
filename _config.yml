@@ -16,7 +16,7 @@ description: >
     Tips and tricks on how i improved my art and running an instagram account.
 baseurl: "/centrarium/" # the subpath of your site, e.g. /blog/
 url: "https://artenblog.github.io" # the base hostname & protocol for your site
-cover: "assets/image (1).jpg"
+cover: "assets/headerimage.jpg"
 logo: "assets/35102259.jpeg"
 
 # Build settings
