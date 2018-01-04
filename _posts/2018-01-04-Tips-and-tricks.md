@@ -10,7 +10,7 @@ Some tips that I’ve found helped me to improve my art are
 ### Faces and proportions
 I went to the book shop because I had a voucher and I had no idea what to get. I found some art books and came across “Figure drawing for artists- Steve Huston”. Being all excited about a new art book, I went home and started working my way through. This was at the start of the holidays so I worked through the book until school went back. I’m so glad that I did too, I can definitely tell how much I improved after this and would recommend even just watching YouTube videos about proportions.
 
-![image]({{site.url}}/assets/DEE48AE9-AA21-488F-B97C-8E3A0D914E02.jpeg)
+![image]({{https://artenblog.github.io/centrarium/}}/assets/centrarium/assets/5D95FCA7-C75B-4F5B-9EC5-87927FF974AD.jpeg)
 
 ### Don’t give up
 
