@@ -9,11 +9,11 @@ exclude:
 
 # Site settings
 title: Art_En
-subtitle: "Tips and tricks on how i improved my art and running an instagram account."
+subtitle: "Tips and tricks on how I improved my art and running an instagram account."
 email: art.en@yahoo.com
 name: Emma Neill
 description: > 
-    Tips and tricks on how i improved my art and running an instagram account.
+    Tips and tricks on how I improved my art and running an instagram account.
 baseurl: "/centrarium/" # the subpath of your site, e.g. /blog/
 url: "https://artenblog.github.io" # the base hostname & protocol for your site
 cover: "/assets/headerimage.jpg"
@@ -93,3 +93,11 @@ protocols:
     os_repo: "https://github.com/RichardLitt/wordhoardpress.com"
     os_rcs_type: "git"
     os_src: "git@github.com:RichardLitt/wordhoardpress.com.git"
+
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+        author: Emma Neill
