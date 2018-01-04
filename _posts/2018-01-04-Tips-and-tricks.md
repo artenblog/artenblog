@@ -1,6 +1,7 @@
 # Tips & Tricks that helped me improve my art.
 
 
+
 Some tips that I’ve found helped me to improve my art are 
 * Facial and proportion study
 * Don’t give up on pieces you don’t like, the more you draw, the better you become
