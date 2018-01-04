@@ -2,9 +2,9 @@
 # External gems
 # See http://ixti.net/software/2013/01/28/using-jekyll-plugins-on-github-pages.html for making `jekyll archives` work.
 gems:
-  - jekyll-archives # Sorry, not GitHub pages friendly!
   - jekyll-sitemap
   - jekyll-paginate
+#- jekyll-archives # Sorry, not GitHub pages friendly!
 
 
 # Site settings
@@ -16,8 +16,8 @@ description: >
 # Base URL of site (i.e. /blog). It should always start with a slash,
 # and never end with a slash. Set it to a blank value if hosting at the
 # root of your server.
-baseurl: "/blog" # the subpath of your site, e.g. /blog/
-url: "http://arten/github.io/centrarium" # the base hostname & protocol for your site
+baseurl: "/centarium/" # the subpath of your site, e.g. /blog/
+url: "http://arten/github.io/" # the base hostname & protocol for your site
 cover: "/assets/header_image.jpg"
 logo: "/assets/logo.png"
 
@@ -29,14 +29,14 @@ inter_post_navigation: false
 highlightjs_theme: "monokai-sublime"
 
 # Archive settings (see https://github.com/jekyll/jekyll-archives/)
-jekyll-archives:
-  enabled:
-    - categories
-    - tags
-  layout: 'archive'
-  permalinks:
-    category: '/category/:name/'
-    tag: '/tag/:name/'
+#jekyll-archives:
+#enabled:
+#    - categories
+#    - tags
+#  layout: 'archive'
+#  permalinks:
+#    category: '/category/:name/'
+#    tag: '/tag/:name/'
 
 # Disqus comments
 # disqus_shortname: bencentra
