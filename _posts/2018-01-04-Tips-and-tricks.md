@@ -13,6 +13,8 @@ I went to the book shop because I had a voucher and I had no idea what to get. I
 
 ![Book Cover](https://artenblog.github.io/assets/5D95FCA7-C75B-4F5B-9EC5-87927FF974AD.jpeg)
 
+https://books.google.com.au/books/about/Figure_Drawing_for_Artists.html?id=ZFi7CwAAQBAJ&printsec=frontcover&source=kp_read_button&redir_esc=y
+
 ### Don’t give up
 
 I would be the kind of person to start a drawing, get half way through, usually finish the face so there was no fun part left, and close the book and start another. This, I regret. I have so many unfinished pieces it’s unbelievable. It really annoys me that I can’t look at my progress when the pieces aren’t finished to the best of my ability back then. So don’t give up! Even if you work on multiple drawings at once so you don’t get bored. The next point can also help you with this.
