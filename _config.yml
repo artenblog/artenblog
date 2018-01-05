@@ -14,7 +14,7 @@ email: art.en@yahoo.com
 name: Emma Neill
 description: > 
     Tips and tricks on how I improved my art and running an instagram account.
-baseurl: "/centrarium/" # the subpath of your site, e.g. /blog/
+baseurl: "/" # the subpath of your site, e.g. /blog/
 url: "https://artenblog.github.io" # the base hostname & protocol for your site
 cover: "/assets/headerimage.jpg"
 logo: "/assets/35102259.jpeg"
