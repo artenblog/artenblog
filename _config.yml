@@ -106,13 +106,16 @@ defaults:
         type: posts
         values:
             author: Emma Neill
+            comments: true
     - scope:
         path: "art"
         type: posts
         values:
             author: Emma Neill
+            comments: true
     - scope:
         path: "videos"
         type: posts
         values:
             author: Emma Neill
+            comments: true
