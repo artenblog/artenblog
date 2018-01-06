@@ -1,6 +1,8 @@
 ---
 category: Art
 author: Emma Neill
+disqus_disabled: false
+comments: true
 ---
 
 # Tips & Tricks that helped me improve my art.
