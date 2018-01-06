@@ -46,6 +46,7 @@ disqus_shortname: art_en
 ---
 layout: default
 comments: true
+# other options
 ---
 
 # Google analytics
