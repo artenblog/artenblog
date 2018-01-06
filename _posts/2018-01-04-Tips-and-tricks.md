@@ -1,5 +1,5 @@
 ---
-categories: Art
+category: Art
 ---
 
 # Tips & Tricks that helped me improve my art.
