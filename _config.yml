@@ -40,7 +40,7 @@ category: '/category/:art/'
 ---
 
 # Disqus comments
-disqus_shortname: art_en
+disqus_shortname: bencentra
 
 # Google analytics
 # ga_tracking_id: "UA-XXXX-1"
