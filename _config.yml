@@ -35,6 +35,10 @@ highlightjs_theme: "monokai-sublime"
 #     category: '/category/:name/'
 #     tag: '/tag/:name/'
 
+---
+category: '/category/:art/'
+---
+
 # Disqus comments
 # disqus_shortname: bencentra
 
