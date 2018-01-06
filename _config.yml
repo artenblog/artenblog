@@ -101,18 +101,18 @@ protocols:
 
 defaults:
   # _posts
-  - scope:
-      path: ""
-      type: posts
-    values:
-        author: Emma Neill
-  - scope:
-       path: "art"
-       type: posts
-    values:
-        author: Emma Neill
-  - scope:
-       path: "videos"
-       type: posts
-    values:
-        author: Emma Neill
+    - scope:
+        path: ""
+        type: posts
+        values:
+            author: Emma Neill
+    - scope:
+        path: "art"
+        type: posts
+        values:
+            author: Emma Neill
+    - scope:
+        path: "videos"
+        type: posts
+        values:
+            author: Emma Neill
