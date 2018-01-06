@@ -107,12 +107,12 @@ defaults:
     values:
         author: Emma Neill
   - scope:
-       path: "/art/"
+       path: "art"
        type: posts
     values:
         author: Emma Neill
   - scope:
-       path: "/videos/"
+       path: "videos"
        type: posts
     values:
         author: Emma Neill
