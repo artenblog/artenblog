@@ -100,10 +100,19 @@ protocols:
     os_src: "git@github.com:RichardLitt/wordhoardpress.com.git"
 
 defaults:
-  author: Emma Neill
   # _posts
   - scope:
       path: ""
       type: posts
+    values:
+        author: Emma Neill
+  - scope:
+       path: "/art/"
+       type: posts
+    values:
+        author: Emma Neill
+  - scope:
+       path: "/videos/"
+       type: posts
     values:
         author: Emma Neill
