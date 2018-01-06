@@ -107,15 +107,18 @@ defaults:
         values:
             author: Emma Neill
             comments: true
+            disqus_disabled: false
     - scope:
         path: "art"
         type: posts
         values:
             author: Emma Neill
             comments: true
+            disqus_disabled: false
     - scope:
         path: "videos"
         type: posts
         values:
             author: Emma Neill
             comments: true
+            disqus_disabled: false
